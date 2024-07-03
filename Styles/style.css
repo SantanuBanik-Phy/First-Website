@@ -9,6 +9,7 @@ h1{
 }
 h2{
     font-size: 40px;
+    
 }
 p{
     color: dimgrey;
@@ -72,4 +73,8 @@ footer{
     text-align: center;
     font-size: 12px;
     
+}
+#center{
+    text-align: center;
+    text-decoration: underline;
 }
