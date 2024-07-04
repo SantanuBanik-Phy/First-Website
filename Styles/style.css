@@ -94,15 +94,24 @@ li{
 li a{
     color: white;font-size: 18px;font-weight: bold;margin-right: 25px;
 }
-button{
-    background-color: white;margin-left: 10px;border-radius: 10px;padding: 10px; width: 90px;
-    color: black;
+.btn{
+    background-color:brown;margin-left: 10px;border-radius: 10px;padding: 10px; width: 90px;
+    color:white;
+    border-color:bisque;
     transition: 0.5s ease-in;
     
+
+       
 }
 button a{
-    font-weight: bold;font-size: 15px;
+    font-weight: bold;font-size: 15px;color:bisque;
+    
 }
+.btn:hover{
+    background-color:rgb(67, 67, 241);
+    
+}
+
 *{
     text-decoration: none;
 }
