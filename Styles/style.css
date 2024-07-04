@@ -78,3 +78,35 @@ footer{
     text-align: center;
     text-decoration: underline;
 }
+.navbar{
+    background-image: linear-gradient(120deg,rgba(252, 177, 150, 0.78),rgb(255, 99, 71));padding-left: 15px;padding-right: 15px;
+}
+.navdiv{
+    display: flex; align-items: center;justify-content: space-between;
+}
+.logo{
+    
+    font-size: 40px;font-weight:bold;
+}
+li{
+    list-style: none;display: inline-block;
+}
+li a{
+    color: white;font-size: 18px;font-weight: bold;margin-right: 25px;
+}
+button{
+    background-color: white;margin-left: 10px;border-radius: 10px;padding: 10px; width: 90px;
+    color: black;
+    transition: 0.5s ease-in;
+    
+}
+button a{
+    font-weight: bold;font-size: 15px;
+}
+*{
+    text-decoration: none;
+}
+#color-change{
+    color:whitesmoke
+
+}
